@@ -17,3 +17,7 @@ https://bard.google.com/
 <h1>debug code Ai </h1>
 
 https://debugcode.ai/
+
+<h1>sql and excel formule</h1>
+
+https://formula.dog/
