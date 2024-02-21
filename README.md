@@ -1,6 +1,6 @@
 # Ai-Tools-for-free
 
-  <h1>PPT for Ai </h1>
+  <h1>PPT for Ai genareting </h1>
   https://gamma.app/
   
  <h1>Pratice for the interview  or prasention
