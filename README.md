@@ -21,3 +21,8 @@ https://debugcode.ai/
 <h1>sql and excel formule</h1>
 
 https://formula.dog/
+
+<h1>resume for Ai</h1>
+using chat GPT  OUR RESUME AND JD CONVERT INTO ATS FRIENDLY GIVEN PROMT 
+chatgpt prompt for ATS Friendly Resume .
+
