@@ -9,3 +9,7 @@ https://app.yoodli.ai/
 <p>copy the news url past in the paywallhub</p>
 <br>
 <b></b>https://paywallhub.com/
+
+<h1>coding AI tool all languages</h1>
+
+https://bard.google.com/
