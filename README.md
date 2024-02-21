@@ -13,3 +13,7 @@ https://app.yoodli.ai/
 <h1>coding AI tool all languages</h1>
 
 https://bard.google.com/
+
+<h1>debug code Ai </h1>
+
+https://debugcode.ai/
