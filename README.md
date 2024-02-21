@@ -19,6 +19,9 @@ https://bard.google.com/
 
 https://debugcode.ai/
 
+<h1>video genaretor</h1>
+https://www.synthesia.io/free-ai-video-demo#OptimizedForSharing_New
+
 <h1>sql and excel formule</h1>
 
 https://formula.dog/
