@@ -1,5 +1,7 @@
 # Ai-Tools-for-free
 
+  <h1>PPT for Ai </h1>
+  https://gamma.app/
   
  <h1>Pratice for the interview  or prasention
  https://app.yoodli.ai/
