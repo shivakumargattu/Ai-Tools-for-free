@@ -3,7 +3,7 @@
   <h1>PPT for Ai genareting </h1>
   https://gamma.app/
   
- <h1>Pratice for the interview  or prasention
+ <h1>Pratice for the interview  or prasention</h1>
  https://app.yoodli.ai/
 
 <h1>esay read for blogs or news without Subcription  </h1>
